@@ -1,5 +1,5 @@
-# Frontend Mentor - Interactive pricing component
-This is a solution to the [QR Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8/hub)
+# Frontend Mentor - Interactive card details form
+This is a solution to the [Interactive Card Details challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw/hub)
 Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -27,9 +27,9 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Screenshot
 
-![Design preview for the Interactive pricing component coding challenge](https://github.com/Orisabiyi/qr-component-code/blob/main/design/desktop-preview.jpg)
+![Design preview for the Interactive Card Details coding challenge](https://github.com/Orisabiyi/qr-component-code/blob/main/design/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [Interactive pricing component Solution](https://www.frontendmentor.io/solutions/interactive-pricing-component-0Az-i-eY_Q)
-- Live Site URL: [Interactive pricing component](https://brycezubi.github.io/interactive-pricing-component/)
+- Solution URL:[Interactive Card Details Solution](https://www.frontendmentor.io/solutions/interactive-card-details-form-wdVCJoY2t3)
+- Live Site URL: [Interactive Card Details](https://brycezubi.github.io/interactive-form-tarjet-react/)
